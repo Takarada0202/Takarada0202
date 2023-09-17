@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takarada0202&show_icons=true&theme=blue_navy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takarada0202&show_icons=true&theme=blue_navy)<br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takarada0202&layout=compact"><br><br>
  ![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
